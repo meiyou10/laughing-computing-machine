@@ -18,3 +18,4 @@ List:
 remote change
 change local
 update to latest
+reset
