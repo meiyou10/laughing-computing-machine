@@ -19,3 +19,4 @@ remote change
 change local
 update to latest
 reset
+change added in master after the changes added to branch3
